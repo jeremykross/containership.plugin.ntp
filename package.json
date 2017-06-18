@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@containership/containership.plugin": "git://github.com/containership/containership.plugin#v2",
+    "@containership/containership.plugin": "git://github.com/jeremykross/containership.plugin#v2",
     "lodash": "^4.17.4"
   },
   "author": "",
